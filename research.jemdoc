@@ -1,47 +1,141 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 == Research
 
-=== Reactors
-- Supercritical Pressure Jet-stirred Reactor 
+=== Ultimate Combustion
+
+==== 1. Supercritical Combustion Experiments
+Supercritical combustion has tremendous potential in engines and gas turbines and due to its high combustion efficiency and ultra-lean flammability. However, supercritical combustion chemistry is very challenging due to the failure of gas-phase chemistry theory. We have built the first supercritical-pressure jet-stirred reactor (SP-JSR) for reaction kinetics study up to 200 atm. It is noted that this is the first ultra-high pressure JSR in the world. Our reactor design has won the Karl H. Walther Award from American scientific glassblowers society.
+
+- [pubs/J21.pdf Studies of high-pressure n-butane oxidation with CO2 dilution up to 100 atm using a supercritical-pressure jet-stirred reactor] \n
+Hao Zhao*, Chao Yan, Tianhan Zhang, Guoming Ma, Michael J. Souza, Chongwen Zhou, and Yiguang Ju. \n
+Proc. Combust. Inst. 38 (2021) 279-287. 
+\n
 ~~~
 {}{img_left}{res/1.1.jpg}{alt text}{700px}{300px}
 ~~~
 
-- Plasma-assisted Reactor, Pulsed-heating Reactor 
+==== 2. Supercritical Flow Computation
+The Virial method describing real-fluid EoS, thermodynamic properties, and chemical potentials calculations is developed and applied for combustion modelling for various fuels in this work. The Virial method is constructed with deeper-level physical insights and higher accuracy comparing with empirical methods. The complete Virial method applicable to simulations of various fuels has been incorporated into Cantera program. 
+
+- [pubs/J23.pdf Theoretical Studies of Real-Fluid Oxidation of Hydrogen Under Supercritical Conditions by Using the Virial Equation of State] \n
+Junfeng Bai, Peng Zhang, Chong-Wen Zhou, Hao Zhao*. \n
+Combust. Flame, (2021) In press. 
+\n
 ~~~
-{}{img_left}{res/1.2.jpg}{alt text}{520px}{500px}
+{}{img_left}{res/1.2.jpg}{alt text}{520px}{300px}
 ~~~
 
-- Flow Reactor, Jet-stirred Reactor 
+==== 3. Supercritical Combustion Theory
+We developed supercritical combustion models of H2, CH4, CH4O, C3H8, DME, C4H10 at 100 atm by using SP-JSR coupled with advanced diagnostics and real-fluid combustion simulations. Special attentions have been paid to supercritical low temperature chemistry and special NTC behavior. It is a collaborative work between PKU, Princeton University, and Argonne National Lab. 
+
+- [pubs/J27.pdf Studies of low and intermediate temperature oxidation of propane up to 100 atm in a supercritical-pressure jet-stirred reactor] \n
+Hao Zhao*, Chao Yan, Guohui Song, Ziyu Wang, Yiguang Ju. \n
+Proc. Combust. Inst. (2023) In press. 
+
+- [pubs/J26.pdf Methanol oxidation up to 100 atm in a supercritical pressure jet-stirred reactor] \n
+Ziyu Wang, Hao Zhao*, Chao Yan, Ying Lin, Aditya D. Lele, Wenbin Xu, Brandon Rotavera, Ahren W. Jasper, Stephen J. Klippenstein, Yiguang Ju. \n
+Proc. Combust. Inst. (2023) In press 
+
+- [pubs/J22.pdf Low- and intermediate-temperature oxidation of dimethyl ether up to 100 atm in a supercritical pressure jet-stirred reactor] \n
+Chao Yan, Hao Zhao*, Ziyu Wang, Guohui Song, Ying Lin, Clayton R. Mulvihill, Ahren W. Jasper, Stephen J. Klippenstein, Yiguang Ju. \n
+Combust. Flame, (2022) In Press. 
+
+- [pubs/J21.pdf Studies of high-pressure n-butane oxidation with CO2 dilution up to 100 atm using a supercritical-pressure jet-stirred reactor] \n
+Hao Zhao*, Chao Yan, Tianhan Zhang, Guoming Ma, Michael J. Souza, Chongwen Zhou, and Yiguang Ju. \n
+Proc. Combust. Inst. 38 (2021) 279-287. 
+\n
 ~~~
-{}{img_left}{res/1.3.jpg}{alt text}{400px}{300px}
+{}{img_left}{res/1.3.jpg}{alt text}{410px}{300px}
 ~~~
 
-=== Diagnostics
-- Electron-impact Molecular Beam Mass Spectrometer 
+==== 4. Sensitized Combustion Chemistry
+The reaction mechanism of the following fuel was studied by means of electron impact flight mass spectrometry, laser absorption spectroscopy, Faraday rotation spectroscopy and Schlieren imaging. 
+\n
+The non-equilibrium fast thermal decomposition of formaldehyde (HCO) radical under high pressure was experimentally demonstrated by using a high pressure spherical combustion bomb, and the kinetic mechanism of the high pressure reaction between formaldehyde and 1, 3-butadiene was developed/updated.
+\n
+- [pubs/J7.pdf Effect of prompt dissociation of formyl radical on 1, 3, 5-trioxane and CH2O laminar flame speeds with CO2 dilution at elevated pressure] \n
+Hao Zhao*, Jiapeng Fu, Francis M. Haas, Yiguang Ju. \n
+Combust. Flame 183 (2017) 253-260. 
+
+- [pubs/J13.pdf Studies of high pressure 1,3-butadiene flame speeds and high temperature chemistry using hydrogen and oxygen sensitization] \n
+Hao Zhao*, Zunhua Zhang, Yacine Rezgui, Ningbo Zhao, Yiguang Ju. \n
+Combust. Flame 200 (2019) 135-141. 
+\n
 ~~~
-{}{img_left}{res/2.1.jpg}{alt text}{665px}{224px}
+{}{img_left}{res/1.4.1.jpg}{alt text}{643px}{284px}
 ~~~
 
-- Laser Absorption Spectroscopy
+\n
+
+The sensitization of NOx and ozone to low temperature chemistry of fuel was studied. The Princeton ozone reaction mechanism (HP-O3 MECH), NOx reaction mechanism, ozone/dimethyl ether coupling mechanism and n-pentane /NOx coupling mechanism were developed.
+\n
+- [pubs/J11.pdf Study of low temperature oxidation of n-pentane with nitric oxide addition in a jet stirred reactor] \n
+Hao Zhao*, Lingnan Wu, Charles Patrick, Zunhua Zhang, Yacine Rezgui, Xueliang Yang, Gerard Wysocki, Yiguang Ju. \n
+Combust. Flame 197 (2018) 78-87. 
+
+- [pubs/J10.pdf Experimental and modeling study of the mutual oxidation of n-pentane and nitrogen dioxide at low and high temperatures in a jet stirred reactor] \n
+Hao Zhao*, Alon Dana, Zunhua Zhang, William Green, Yiguang Ju. \n
+Energy 165 (2018) 727-738. 
+
+- [pubs/J4.pdf Kinetic studies of ozone assisted low temperature oxidation of dimethyl ether in a flow reactor using molecular-beam mass spectrometry] \n
+Hao Zhao*, Xueliang Yang, Yiguang Ju. \n
+Combust. Flame 173 (2016) 187-194.
+\n
 ~~~
-{}{img_left}{res/2.2.jpg}{alt text}{385px}{300px}
+{}{img_left}{res/1.4.2u.jpg}{alt text}{430px}{329px}
 ~~~
 
-- Faraday Rotational Spectroscopy
+Quantification of H2O、CH4、C2H2、CH2Oby using QCL
+\n
 ~~~
-{}{img_left}{res/2.3.jpg}{alt text}{740px}{419px}
+{}{img_left}{res/1.4.2d.jpg}{alt text}{634px}{65px}
 ~~~
 
-- Gas Chromatography, Ultraviolet Spectrometer
-~~~
-{}{img_left}{res/2.4.jpg}{alt text}{455px}{122px}
-~~~
- \n
+Ozone assisted deflagration to detonation transition
+\n
 
-- All-fiber photothermal interferometry probe
+=== Plasma Assisted Synthesis
+==== 1. We use non-thermal plasma technology to assist important chemical synthesis, such as ammonia, bio-methane, bio-methanol, etc., and further reduce CO2 emission and enhance energy sustainability. We studied the plasma catalyzed synthesis of NH3, and firstly identified and measured the concentration of the radical NNH and N2H2 by using in-situ molecular-beam mass spectrometry. This work was published in ACS Energy Letters as the front cover. 
 ~~~
-{}{img_left}{res/2.5.jpg}{alt text}{600px}{188px}
+{}{img_left}{res/2.1.jpg}{alt text}{478px}{300px}
+~~~
+
+==== 2. We developed pulsed heating/quenching technology for enabling ammonia synthesis under atmospheric conditions, and predicted its potential application both in experiments and kinetic modeling. This work has been recently published in Nature as the front cover.
+\n
+- [pubs/J25.pdf In situ identification of NNH and N2H2 by using molecular-beam mass spectrometry in plasma-assisted catalysis for NH3 synthesis] \n
+Hao Zhao, Guohui Song, Zhe Chen, Xiaofang Yang, Chao Yan, Shota Abe, Yiguang Ju, Sankaran Sundaresan, Bruce E. Koel*. \n
+CS Energy Lett., 7 (2022) 53–58.
+
+- [pubs/J24.pdf Programmable Heating and Quenching for Efficient Thermochemical Synthesis] \n
+Qi Dong, Yonggang Yao, Sichao Cheng, Konstantinos Alexopoulos, Jinlong Gao, Sanjana Srinivas, Yifan Wang, Yong Pei, Chaolun Zheng, Alexandra H. Brozena, Xizheng Wang, Jiaqi Dai, Hao Zhao, Weiqing Zheng, Hilal Ezgi Toraman, Zhiwei Lin, Bao Yang, Yiguang Ju, Dionisios G. Vlachos, Dongxia Liu, Liangbing Hu*. \n
+Nature, 605 (2022) 470-476.
+\n
+~~~
+{}{img_left}{res/2.2.jpg}{alt text}{680px}{245px}
+~~~
+
+=== Lithium Battery Fire Safety
+==== 1. In lithium batteries, thermal runaway occurs at abuse conditions due to the interaction between cathode material and electrolyte, however, the kinetic chemistry of battery fire is still unknown. We first used ozone to mimic the oxidizing environment in Li-ion battery by providing active atomic oxygen. This study provides insights of the chemically sensitized gas-phase low temperature chemistry of electrolyte components and its degradation at 400-500 K.
+\n
+- [pubs/J20.pdf Studies of ozone-sensitized low- and high-temperature oxidations of diethyl carbonate] \n
+Hao Zhao*, Shixiang Liu, Can Huang, Chao Yan, Yongfeng Qi, Feng Zhang, Yiguang Ju. \n
+J. Phys. Chem. A 125 (2021) 1760-1765.
+\n
+~~~
+{}{img_left}{res/3.1.jpg}{alt text}{485px}{276px}
+~~~
+
+==== 2. In-situ monitoring of key characteristic parameters in electrolyte under strong electromagnetic interference is very important. We proposed an all-fiber probe and realized the in-situ diagnostics of key parameters in lithium batteries such as temperature, stress, and chemical composition in high accuracy.
+\n
+- [pubs/W1.pdf Transformer oil-dissolved acetylene detection with photonic crystal fiber loop ringdown spectroscopy] \n
+Yuan Wang, Guo-ming Ma*, Diya Zheng, Wei-qi Qin, Jun Jiang, Hong-yang Zhou, and Chao Yan. \n
+Sensors and Actuators B: Chemical 346 (2021): 130590.
+
+- [pubs/W2.pdf Studies of ozone-sensitized low- and high-temperature oxidations of diethyl carbonate] \n
+Guo-ming Ma*, Yuan Wang*, Zhang-lin Chen, Yang-yang Xie, Wei-qi Qin, Diya Zheng, Hong-yang Zhou, Hao Zhao*, and Chao Yan. \n
+arXiv preprint arXiv:2203.14758 (2022).
+~~~
+{}{img_left}{res/3.2.jpg}{alt text}{534px}{471px}
 ~~~
 \n
 \n

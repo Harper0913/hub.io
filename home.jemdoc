@@ -1,7 +1,15 @@
-# jemdoc: menu{MENU}{news.html}, nofooter
-== News
+# jemdoc: menu{MENU}{home.html}, nofooter
+== Lab of Non-equilibrium Energy Conversion
 
-=== Recent
+~~~
+{}{img_left}{photos/home.jpg}{alt text}{600px}{400px}
+Our research group has long been committed to the study of energy conversion in the electric power, propulsion, and chemical fields using non-equilibrium theory and experiments.
+~~~
+
+=== Join Us
+Our research group is looking for doctoral candidates, postdoctoral fellowes, research assistants and undergraduate students with good theoretical or experimental foundation in the fields of thermal physics, chemistry, fluid and other related fields.
+
+=== News
 - 2022. 09 Our paper of “Studies of low and intermediate temperature oxidation of propane up to 100 atm in a supercritical-pressure jet-stirred reactor” has been published in Proc. Combust. Inst.
 
 - 2022. 09 Our paper of “Methanol oxidation up to 100 atm in a supercritical pressure jet-stirred reactor” has been published in Proc. Combust. Inst.
@@ -24,7 +32,6 @@
 
 - 2022. 05 Our paper of “Programmable Heating and Quenching for Efficient Thermochemical Synthesis” has been published on Nature.
 
-=== More
 - 2021. 12 Our paper of “Theoretical Studies of Real-Fluid Oxidation of Hydrogen Under Supercritical Conditions by Using the Virial Equation of State” has been published in Combust. Flame.
 
 - 2021. 12 Prof. Zhao received the “Excellent Young Researcher” award from National Natural Science Foundation of China.

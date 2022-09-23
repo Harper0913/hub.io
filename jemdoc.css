@@ -101,7 +101,11 @@ div.menu-category {
   margin-left: 0em;
   text-shadow: 0.3em 0.3em 0.2em rgb(6, 91, 151);
 }
-
+/* div.menu-category img{
+	width: 3.6em;
+	height: 3.6em;
+	margin: 0;
+} */
 div.menu-category img{
 	width: 3.6em;
 	height: 3.6em;
@@ -111,6 +115,7 @@ div.menu-category img{
 /* imgtable img{
 	width: auto;
 	height: auto;
+  margin-
 }  */
 .first{
 	display: flex;
